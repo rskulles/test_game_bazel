@@ -1,7 +1,4 @@
-bazel-bin
-bazel-out
-bazel-test_*
-bazel-testlogs
+bazel-*
 external
 compile_commands.json
 .cache
